@@ -7,6 +7,6 @@ doit apprendre à reconnaître et à prédire quel chiffre (de 0 à 9) est repr�
 et du Mini-batch Gradient Descent. Visualiser les courbes de perte pour chaque méthode.
 Application Pratique du modele:
 
-Le modèle peut être utilisé dans diverses applications pratiques telles que :
+Le modèle peut être utilisé dans diverses applications pratiques telles que:
 
 Reconnaissance de Caractères : Automatisation de la reconnaissance de caractères manuscrits dans des documents numérisés. Systèmes de Lecture Automatique de Chèques : Extraction et reconnaissance des montants écrits à la main sur les chèques bancaires. Assistants Personnels et OCR : Amélioration des technologies de reconnaissance optique de caractères (OCR) dans les applications mobiles et les assistants personnels.
