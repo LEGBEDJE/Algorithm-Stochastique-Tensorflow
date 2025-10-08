@@ -9,4 +9,4 @@ Application Pratique du modele:
 
 Le modèle peut être utilisé dans diverses applications pratiques telles que:
 
-Reconnaissance de Caractères : Automatisation de la reconnaissance de caractères manuscrits dans des documents numérisés. Systèmes de Lecture Automatique de Chèques : Extraction et reconnaissance des montants écrits à la main sur les chèques bancaires. Assistants Personnels et OCR : Amélioration des technologies de reconnaissance optique de caractères (OCR) dans les applications mobiles et les assistants personnels.
+Reconnaissance de Caractères : Automatisation de la reconnaissance de caractères manuscrits dans des documents numérisés. Systèmes de Lecture Automatique de Chèques: Extraction et reconnaissance des montants écrits à la main sur les chèques bancaires. Assistants Personnels et OCR: Amélioration des technologies de reconnaissance optique de caractères (OCR) dans les applications mobiles et les assistants personnels.
